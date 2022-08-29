@@ -1,6 +1,6 @@
 # Odin Project Binary Search Trees
 
-[Odin Project](https://www.theodinproject.com/lessons/javascript-binary-search-trees)
+[Odin Project Directions](https://www.theodinproject.com/lessons/javascript-binary-search-trees)
 
 ## Table of Contents
 
